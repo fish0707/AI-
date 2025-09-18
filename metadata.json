@@ -1,0 +1,7 @@
+{
+  "name": "Conversation Analyst AI",
+  "description": "An AI-powered tool that provides objective analysis of conversation texts, highlighting key topics and emotional dynamics to improve communication.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
